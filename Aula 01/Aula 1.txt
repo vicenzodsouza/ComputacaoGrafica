@@ -12,6 +12,4 @@ g) Calcular o produto escalar do vetor lido anteriormente por outro vetor, lendo
 deste novo vetor e mostrando o resultado na tela.
 h) Opção ‘sair’
 
-RESOLUÇÃO NO ARQUIVO DO GOOGLE COLAB
-
-https://colab.research.google.com/#scrollTo=4RsS9mCcw1MJ
+RESOLUÇÃO NO ARQUIVO EX1.py
