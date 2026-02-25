@@ -13,3 +13,5 @@ deste novo vetor e mostrando o resultado na tela.
 h) Opção ‘sair’
 
 RESOLUÇÃO NO ARQUIVO DO GOOGLE COLAB
+
+https://colab.research.google.com/#scrollTo=4RsS9mCcw1MJ
